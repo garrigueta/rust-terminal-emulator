@@ -1,6 +1,8 @@
 # Rust Terminal Emulator
 
-A modern terminal emulator written in Rust with an elegant, modular architecture and interactive features.
+A modern terminal emulator written in Rust with an elegant, modular architecture and interactive features...
+
+That's not true, this is a simple Vibe-coding project, never trust an AI 
 
 ![Rust Terminal Emulator](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png)
 
